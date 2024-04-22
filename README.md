@@ -4,6 +4,6 @@
 
 <p><b>Challenge:</b> Copy a corporation's web page without looking at the code</p>
 
-<p><b>Purpose:</b> Practice front-end development techniques and challenge thyself</p>
+<p><b>Purpose:</b> Practice front-end development techniques and challenge myself</p>
 
 <p>This was an excellent way to practice and utilize front-end skills like flexbox, grid, and making shapes.</p>
