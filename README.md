@@ -6,4 +6,4 @@
 
 <p><b>Purpose:</b> Practice front-end development techniques and challenge myself</p>
 
-<p>This was an excellent way to practice and utilize front-end skills like flexbox, grid, and making shapes.</p>
+<p>This is an excellent way to practice and utilize front-end skills like flexbox, grid, and making shapes.</p>
