@@ -7,3 +7,5 @@
 <p><b>Purpose:</b> Practice front-end development techniques and challenge myself</p>
 
 <p>This is an excellent way to practice and utilize front-end skills like flexbox, grid, and making shapes.</p>
+
+<a href="https://mattwheeler-dev.github.io/dasher-clone/" target="_blank">Check it out here</a>
